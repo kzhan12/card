@@ -2,21 +2,20 @@ BEGIN:VCARD
 VERSION:3.0
 N:Zhan;Kenny;;;
 FN:Kenny Zhan
-ORG:Nova Scotia Health
-ADR;TYPE=WORK:Nova Scotia Cancer Centre
-5820 University Ave
-Halifax, Nova Scotia
+ORG:NSHealth - Nova Scotia Cancer Centre      
+ADR;TYPE=WORK:5820 University Ave.
+Halifax, NS
+B3H 1V7
 TITLE:Radiation Therapist
-TEL;TYPE=CELL:(416)904-0974
+TEL;TYPE=CELL:4169040974
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
-TEL;TYPE=MSG:(416)904-0974
-EMAIL;TYPE=WORK:kenny.zhan@nshealth.ca
-URL;TYPE=Digital Business Card:
+TEL;TYPE=MSG:4169040974
+EMAIL;TYPE=WORK:kenny.zhan@gmail.com
+URL;TYPE=Digital Business Card:https://kzhan12.github.io/card/
 URL:
 URL;TYPE=LinkedIn:https://linkedin.com/in/kennyzhan
-URL;TYPE=Facebook:https://facebook.com/kennyzhan18
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100805853
+UID:EnBizCard-100374284
 END:VCARD
