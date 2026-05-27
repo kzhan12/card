@@ -2,20 +2,20 @@ BEGIN:VCARD
 VERSION:3.0
 N:Zhan;Kenny;;;
 FN:Kenny Zhan
-ORG:NSHealth - Nova Scotia Cancer Centre      
-ADR;TYPE=WORK:5820 University Ave.
-Halifax, NS
-B3H 1V7
-TITLE:Radiation Therapist
+ORG:NL Health Services - Cancer Care Western      
+ADR;TYPE=WORK:100 Healthcare Cres.
+Corner Brook, NL
+A2H 0J4
+TITLE:Radiation Therapist I
 TEL;TYPE=CELL:4169040974
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:4169040974
-EMAIL;TYPE=WORK:kenny.zhan@nshealth.ca
+EMAIL;TYPE=WORK:kenny.zhan@nlhealthservices.ca
 URL;TYPE=Digital Business Card:https://kzhan12.github.io/card/
 URL:
 URL;TYPE=LinkedIn:https://linkedin.com/in/kennyzhan
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100374284
+UID:
 END:VCARD
